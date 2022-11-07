@@ -41,21 +41,24 @@
 
   <div>
     <h2 align="center"> (b^_^)b 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 ! </h2>
+    <img src="./:)/name.gif" align="left" width="25%" height="25%">
+    <br>
+    <br>
     <div align="center">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <br> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+    </div>
   </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 align="center"> (◍•ᴗ•◍)✧*。𝕥𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 ! </h2>
+    <br>
+    <br>
+    <div align="center">
+      <img src="./:)/umaruipad.gif" width="30%" height="30%">
+    </div>
 </body>
-<!--
-**sophie-nguyen-0/sophie-nguyen-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
