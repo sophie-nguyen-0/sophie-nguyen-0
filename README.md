@@ -8,7 +8,7 @@
   <br>
   <p align="center"> Thanks for checking out my profile!
   <br>
-    I'm honered!
+    I'm honoured!
   </p>
 
   <br>
