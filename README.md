@@ -30,7 +30,7 @@
     <b>Gender:</b> she/her/Female
     </li>
     <li>
-    <b>Hobbys:</b> Drawing, Reading, Watching anime
+    <b>Hobbies:</b> Drawing, Reading, Watching anime
     </li>
   </div>
 
