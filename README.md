@@ -57,7 +57,7 @@
     <img src="./:)/bunchesOfTotoro.png" width="60%" height="60%" >
   </div>
 
-    <!-- end -->
+  <!-- end -->
   <div>
     <h2 align="center"> (◍•ᴗ•◍)✧*。𝕥𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 ! </h2>
     <br>
