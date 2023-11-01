@@ -7,15 +7,12 @@
   </div>
   <br>
   <p align="center"> Thanks for checking out my profile!
-  <br>
-    I'm honoured!
   </p>
-
   <br>
-  <br>
-
+  
+  <!-- intro -->
   <div>
-    <h2 align="center"> 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖! </h2>
+    <h2 align="center"> ❃⚘ 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖! ❃⚘ </h2>
     <img src="./:)/littleTotoroCharactersWalking.gif" align="right" width="19%" height="19%">
     <br>
     <br>
@@ -37,10 +34,10 @@
       <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing">
     </div>
   </div>
-
-
+  
+<!-- programs -->
   <div>
-    <h2 align="center"> 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 ! </h2>
+    <h2 align="center"> ✿❃⚘ 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 ! ✿❃⚘ </h2>
     <img src="https://i.pinimg.com/originals/65/eb/7a/65eb7a570b62cc471aae893296e8678a.gif" align="left" width="23%" height="23%">
     <br>
     <br>
@@ -50,19 +47,23 @@
     IDE's: <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </div>
   </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div align="center">
-      <img src="./:)/bunchesOfTotoro.png" width="60%" height="60%" >
-    </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div align="center">
+    <img src="./:)/bunchesOfTotoro.png" width="60%" height="60%" >
+  </div>
+
+    <!-- end -->
+  <div>
     <h2 align="center"> (◍•ᴗ•◍)✧*。𝕥𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 ! </h2>
     <br>
     <br>
     <div align="center">
       <img src="https://i.pinimg.com/originals/89/d6/b1/89d6b11e88ccb6b57a0b61931c8e7d64.gif" width="30%" height="30%">
     </div>
+  </div>
 </body>
