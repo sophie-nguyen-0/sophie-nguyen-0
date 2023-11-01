@@ -52,9 +52,8 @@
   </div>
     <br>
     <br>
+    <br>
     <img src="./:)/bunchesOfTotoro.png" >
-    <br>
-    <br>
     <h2 align="center"> (◍•ᴗ•◍)✧*。𝕥𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 ! </h2>
     <br>
     <br>
