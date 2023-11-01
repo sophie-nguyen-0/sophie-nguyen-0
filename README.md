@@ -55,8 +55,9 @@
     <br>
     <br>
     <br>
+    <br>
     <div align="center">
-      <img src="./:)/bunchesOfTotoro.png" width="70%" height="70%" >
+      <img src="./:)/bunchesOfTotoro.png" width="60%" height="60%" >
     </div>
     <h2 align="center"> (◍•ᴗ•◍)✧*。𝕥𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 ! </h2>
     <br>
