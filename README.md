@@ -61,6 +61,6 @@
     <br>
     <br>
     <div align="center">
-      <img src="https://i.pinimg.com/originals/5d/ea/a1/5deaa1f00a7f630c59c98babbefbb486.gif)https://i.pinimg.com/originals/5d/ea/a1/5deaa1f00a7f630c59c98babbefbb486.gif" width="30%" height="30%">
+      <img src="https://i.pinimg.com/originals/5d/ea/a1/5deaa1f00a7f630c59c98babbefbb486.gif" width="30%" height="30%">
     </div>
 </body>
