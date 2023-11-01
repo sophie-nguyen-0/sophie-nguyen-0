@@ -36,10 +36,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <div align="center">
       <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing" class="center" width="23%" height="23%" >
     </div>
