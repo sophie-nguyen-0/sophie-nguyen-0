@@ -34,7 +34,7 @@
     <b> socials:<b> Gmail
     <br>
     <div align="center">
-      <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing" class="center" width="23%" height="23%" >
+      <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing" class="center" >
     </div>
   </div>
 
