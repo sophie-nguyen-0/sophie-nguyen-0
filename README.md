@@ -19,7 +19,7 @@
     <img src="./:)/littleTotoroCharactersWalking.gif" align="right" width="19%" height="19%">
     <br>
     <br>
-    <b>Name:</b> sophie
+    <b>Name:</b> Sophie
     <br>
     <br>
     <b>Age:</b> 14
@@ -31,7 +31,7 @@
     <b>Hobbies:</b> Drawing, Reading, Watching anime
     <br>
     <br>
-    <b>Socials:<b> Gmail
+    <b>Socials:</b> Gmail
     <br>
     <div align="center">
       <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing">
