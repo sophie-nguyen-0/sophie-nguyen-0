@@ -33,7 +33,7 @@
     <br>
     <b>Socials:<b> Gmail
     <br>
-    <div align="center">
+    <div align="right">
       <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing" class="center" >
     </div>
   </div>
