@@ -1,9 +1,9 @@
 
 <body>
-  <h1 align="center">(っ◔◡◔)っ ♥ welcome to my profile ! ♥ </h1>
+  <h1 align="center">  welcome to my profile !  </h1>
   <br>
   <div align="center">
-    <img src="./:)/umaruchan.jpg" width="50%" height="50%">
+    <img src="./:)/totoro.gif" width="50%" height="50%">
   </div>
   <br>
   <p align="center"> Thanks for checking out my profile!
@@ -15,37 +15,46 @@
   <br>
 
   <div>
-    <h2 align="center"> 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖! ᕙ(^▿^-ᕙ)</h2>
+    <h2 align="center"> 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖! </h2>
+    <img src="./:)/littleTotoroCharactersWalking.gif" align="right" width="19%" height="19%">
     <br>
-    <img src="./:)/animegirl.gif" align="right">
+    <br>
+    <b>Name:</b> sophie
     <br>
     <br>
-    <li>
-    <b>Name:</b> sophie</li>
-    </li>
-    <li>
     <b>age:</b> 14
-    </li>
-    <li>
+    <br>
+    <br>
     <b>Gender:</b> she/her/Female
-    </li>
-    <li>
+    <br>
+    <br>
     <b>Hobbies:</b> Drawing, Reading, Watching anime
-    </li>
-  </div>
-
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <div>
-    <h2 align="center"> (b^_^)b 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 ! </h2>
-    <img src="./:)/name.gif" align="left" width="25%" height="25%">
+    <br>
+    <br>
+    <b> socials:<b> Gmail
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <div align="center">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <br> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="./:)/smolWhiteThingWalking.gif" alt="totoro thing" class="center" width="23%" height="23%" >
+    </div>
+  </div>
+
+
+  <div>
+    <h2 align="center"> 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤 ! </h2>
+    <img src="https://i.pinimg.com/originals/65/eb/7a/65eb7a570b62cc471aae893296e8678a.gif" align="left" width="23%" height="23%">
+    <br>
+    <br>
+    <div align="center">
+    languages: <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <br> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <br>
+    IDE's: <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </div>
   </div>
     <br>
