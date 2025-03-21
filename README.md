@@ -50,19 +50,17 @@
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <br>
-    <br>
+      <br>
+      <br>
     IDE's:
       <br>
       <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
       <br>
     operating systems:
       <br>
-      <br>
       <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
       <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-      <br>
     </div>
   </div>
   
