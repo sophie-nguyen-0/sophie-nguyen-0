@@ -19,7 +19,7 @@
     <b>Name:</b> Sophie
     <br>
     <br>
-    <b>Age:</b> 14
+    <b>Age:</b> 16
     <br>
     <br>
     <b>Gender:</b> she/her/Female
