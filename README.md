@@ -22,7 +22,7 @@
     <b>Age:</b> 16
     <br>
     <br>
-    <b>Gender:</b> she/her/Female
+    <b>Gender:</b> Female
     <br>
     <br>
     <b>Hobbies:</b> Drawing, Reading, Watching anime
